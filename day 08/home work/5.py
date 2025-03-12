@@ -1,0 +1,1 @@
+# for loop aris kargi imistvis roca erti da igive operaciis bevrjer gaketeba gvinda is listshi yvela elements miyveba da mocemul operacias imeorebs titoeulze sanam bolos ar miaxwevs
