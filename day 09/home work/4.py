@@ -1,0 +1,2 @@
+# for loop kods imeorebs da igive moqmedebas mocemul raodenobit aketebs
+# magalitad gvaq list da listshi gvaq sxvadasxva xili [apple, banana, orange , grape] range funqcias tu gamoviyenebt saiteracio cvladi mag: x jer iqneba apple mere orange da ase shemdeg
