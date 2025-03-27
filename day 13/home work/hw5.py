@@ -1,0 +1,2 @@
+# lists pythonshi inaxavs bevr elements mas sheuzlia bevri elementis ert droulad shenaxva imis nacvlad ro shevqmnat 100 variable sadac sxvadasxva elementi iqneboda shenaxuli shegvizlia shevmnat list sadac am 100 elemenets shevinaxavt da ar mogviwevs 100 variables sheqmna
+# list sheizleba sheicavdes sxvadasxva tipis elements magalitad int an str lists are mutable listshi tito elementis shoris mzimea da listis shesaqmnelad viyenebt []
