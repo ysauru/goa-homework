@@ -1,0 +1,1 @@
+# funqcia gvchirdeba imistvis rom raxac kodi imdenjer gamoviyenot ramdenjerac sachiro iqneba
