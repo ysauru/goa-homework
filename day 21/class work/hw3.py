@@ -1,5 +1,3 @@
-
-
 def find_short(s):
     words = s.split()
     shortest_length = len(words[0])
