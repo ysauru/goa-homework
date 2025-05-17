@@ -1,0 +1,38 @@
+.box-image {
+    box-shadow: 0 8px 16px;
+    background-size:cover;
+    width:200px;
+    height:200px;
+    border: 3px solid;
+    border-radius: 10px;
+    background-image: url('https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.manga-sanctuary.com%2Fimageslesseries2%2Ftokyo-ghoul-manga-volume-1-francaise-73492%5B1%5D.jpg&f=1&nofb=1&ipt=97aa58cfda8bba02f0e923e1aa051c1da68a7ae7044612c969a3398f83ab831f')
+}
+
+
+.box-image {
+    color:rgba(0, 0, 0, 0.473);
+    box-shadow: 0 8px 16px;
+    background-size:cover;
+    width:200px;
+    height:200px;
+    border: 3px solid;
+    border-radius: 10px;
+    background-image: url('https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.manga-sanctuary.com%2Fimageslesseries2%2Ftokyo-ghoul-manga-volume-1-francaise-73492%5B1%5D.jpg&f=1&nofb=1&ipt=97aa58cfda8bba02f0e923e1aa051c1da68a7ae7044612c969a3398f83ab831f')
+}
+
+
+.box-image {
+    box-shadow: 0 8px 16px;
+    background-size:cover;
+    width:200px;
+    height:200px;
+    border: 3px solid;
+    border-radius: 10px;
+    background-image: url('https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.manga-sanctuary.com%2Fimageslesseries2%2Ftokyo-ghoul-manga-volume-1-francaise-73492%5B1%5D.jpg&f=1&nofb=1&ipt=97aa58cfda8bba02f0e923e1aa051c1da68a7ae7044612c969a3398f83ab831f')
+}
+
+
+p {
+    text-align:center;
+    color:rgba(0, 0, 0, 0.425)
+}
